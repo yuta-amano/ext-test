@@ -1,4 +1,4 @@
 ext-test
 ========
 
-Git Extensions wo tsukauo.
+Git Extensions wo tsukauyo.
